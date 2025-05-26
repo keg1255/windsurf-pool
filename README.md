@@ -24,3 +24,7 @@ windsurf号池插件, 一键换号, 解决free user account exceeded问题
 2. 点击刷新设备码
 
 ![号池管理](resources/device.png)
+
+## 交流群
+
+![qq](resources/qq.png)
