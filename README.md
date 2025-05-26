@@ -27,4 +27,5 @@ windsurf号池插件, 一键换号, 解决free user account exceeded问题
 
 ## 交流群
 
+![wx](resources/wx.png)
 ![qq](resources/qq.png)
